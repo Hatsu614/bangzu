@@ -43,12 +43,12 @@
       display: block;
     }
     #grid ol {
-      width: 1800px;
-        font-size: 20rem;
+      width: 900px;
+        font-size: 10rem;
       border-right:none;
     }
     #grid #what {
-        font-size: 15rem;
+        font-size: 8rem;
       }
     h1 {
         border-bottom: none;
