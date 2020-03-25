@@ -44,11 +44,11 @@
     }
     #grid ol {
       width: 900px;
-        font-size: 10rem;
+        font-size: 5rem;
       border-right:none;
     }
     #grid #what {
-        font-size: 8rem;
+        font-size: 3rem;
       }
     h1 {
         border-bottom: none;
