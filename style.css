@@ -38,12 +38,12 @@
       padding-top: 24px;
       padding-left: 24px;
   }
-  @media(max-width: 500px){
+  @media(max-width: 800px){
     #grid {
       display: block;
     }
     #grid ol {
-      width: 2000px;
+      width: 1800px;
         font-size: 20rem;
       border-right:none;
     }
