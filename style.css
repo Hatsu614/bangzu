@@ -46,9 +46,10 @@
       width: 900px;
         font-size: 5rem;
       border-right:none;
+      padding-left: 100px;
     }
     #grid #what {
-        font-size: 3rem;
+        font-size: 2rem;
       }
     h1 {
         border-bottom: none;
